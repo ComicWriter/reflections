@@ -1,0 +1,80 @@
+How did viewing a diff (Mac, Linux) or an FC (windows) between two versions of a file help you see the bug that
+was introduced?
+
+    Fill in your answer here - you know there was a change at these lines of codes, so instead of searching and quite likely missing the comparison, this makes the comparison of changes much simpler.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Fill in your answer here - you'd know where coding broke, where it might have repeated, where it could be consolidated, who worked on the file, when the file was worked on.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Fill in your answer here - you get to choose the importance of the save and make it meaningful.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Fill in your answer here - some allow you to group together like-minded information that becomes meaningful; whereas, others save the changes individually so that they can be saved for each change.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here - you can add in full status or author codes alongside the main command.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here - you can test out new code, try it and revert back if things don't work out.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here - as a repository for all building files.
+
+*********
+
+15. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros: group logical changes together so when you or someone else comes back to it, they'll know what code changed and why. Makes it easy to see when things go wrong when it's single, logical coding that gets changed.
+
+Cons: you may forget!!
+
+************
+
+1.18  Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because repository systems like Git save based on logic. Those code changes may require changes across several files in order to work. Google Docs makes those edit changes based on time, so you could, with effort, go and find exactly what changed in any point in time, in that one single file someone was working on, but it could be time consuming.
+
+***********
+
+1.22 How can you use the commands git log and git diff to view the history of files
+
+You can use git log to find all the commits in that repository, the IDs of the commits, how many changes and what the changes were. You can use git diff to find the differences between commits.
+
+
+********
+
+1.26
+
+How might using version control make you more confident to make changes that could break something?
+
+If you know that you're not in danger of losing work that previously worked or you ended up liking better, you'd be more willing to take chances since you could try out new things and if they don't work, you can go back to that previous state with no repercussions.
+
+
+***********
+
+1.31
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+To copy code that I like and build on it.
+To save all the changes I make to the building blocks of web pages and apps...and explore new ideas without fear of losing the base.
+
+**********
+
+3.4
+
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initalize a repository, you're creating the space that will hold all the files and code associated with the project you're working on. 
