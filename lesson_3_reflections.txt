@@ -15,9 +15,15 @@ A. You may be working on something that will break if you introduce code that is
 
 ******
 
+Forks, Clones, and Branches
+
 Q. Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
-A. 
+A. Fork: You are creating a copy of a GitHub repository to your own profile on GitHub. A fork gives the original creators credit for their work and they can see that you've made a copy. The Fork that now exists as a repository on your profile is the code from that original project at that point in time. You would fork if you're using someone else's code as a base; if you have several remote teammates.
+
+Clone: A cloned repository is a copy of a repository from GitHub to your local machine or a copy of repository on your own local machine and you want a double of that repository. You would use cloning on GitHub to take that base repository and have your own working copy on your local machine. Do this if you don't need to credit anyone's work or you want a back up copy.
+
+Branches: is a string of commits that make up a unit. It may be the entire repository or it may just be a part of repository. You use branches when you're wanting to add your commits to GitHub or when you want to bring those commits to your local machine.
 
 
 ******
