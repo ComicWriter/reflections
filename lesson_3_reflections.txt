@@ -37,9 +37,11 @@ A. A benefit of having a copy of the last known state of the remote stored local
 
 ******
 
+Collaboration using Git and GitHub
+
 Q. How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-A. 
+A. To collaborate without using Git or GitHub, you could use virtual networks, dropbox, googledocs. It would be easier to see a running list of users and code changes but keeping code changes separate until ready to merge in or experiment would be much harder.
 
 
 ******
